@@ -7,7 +7,12 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     if (username === "admin" && password === "password") {
       alert("Login successful!");
       window.location.href = "dashboard.html";
-    } else {
+    } 
+    if (username === "entry" && password === "pass") {
+        alert("Login successful!");
+        window.location.href = "dashboard.html";
+        
+      } else {
       alert("Invalid username or password. Please try again.");
     }
   });
