@@ -17,5 +17,5 @@ This project provides a basic structure for a website with essential files and f
 To use this website shell, follow these steps:
 
 ```bash
-$ git clone https://github.com/your-username/basic-website-shell.git
+$ git clone https://github.com/OwenFarnell/Main-Website-Shell.git
 
