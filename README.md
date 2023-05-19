@@ -1,6 +1,6 @@
 # Basic Website Shell
 
-A simple website shell template built with HTML, CSS, and JavaScript.
+A simple website shell template built with HTML, CSS, and JavaScript. Includes a login screen with simple login creation within code, headers with dropdowns, and multiple links to pages, including a settings sections.
 
 ## Description
 
